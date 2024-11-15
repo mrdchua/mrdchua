@@ -1,7 +1,7 @@
 Hi, I’m @mrdchua.
 
 I am currently pursuing a master’s degree in Physics at the University of the Philippines Los Baños,
-where I also serve as a physics instructor, teaching laboratory courses in mechanics, electromagnetism, and modern physics.
+where I also work as a physics instructor, teaching laboratory courses in mechanics, electromagnetism, and modern physics.
 
 My research interests focus on applying Machine Learning to Fundamental Physics, particularly in High-Energy Physics.
 
